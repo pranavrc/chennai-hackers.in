@@ -1,0 +1,12 @@
+h1. chennai-hackers
+
+Designer -> idlecool
+
+h4. Edit
+
+* Edit the createprofilejson.py file and add your descriptions.
+* Add avatars to /avatars.
+* Send me a pull request.
+* ?????
+* PROFIT
+* Kthxbai.
