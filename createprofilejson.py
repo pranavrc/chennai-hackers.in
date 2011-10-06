@@ -71,11 +71,11 @@ def main():
             },
         {
             "screenname": "pranavrc",
-            "avatar":[
+            "avatar":["avatars/pranavrc/1.jpg",
                       ],
-            "desc": ["Description: music theory, guitar&keys, electronics, finance, py, vim, ai, droid, food, fucking lazy, fucking sllllllllooooooooowwwww",
+            "desc": ["Description: music theory, guitar&keys, electronics, finance, math, py, vim, ai, droid, food, laziness, chatter etc.,.",
                      ],
-            "profileurl": "http://gsathya.in/",
+            "profileurl": "http://pranavrc.wordpress.com",
             },
     ]
 
